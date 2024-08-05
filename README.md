@@ -1,11 +1,10 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Monalisa Mahanta 👋
 
 I'm a passionate MEAN stack developer with experience in building dynamic and responsive web applications. Here’s a bit about me:
 
 - 🌱 I’m currently learning advanced Node.js and Angular.
 - 👯 I’m looking to collaborate on open-source MEAN stack projects.
 - 💬 Ask me about JavaScript, Node.js, Express, Angular, MongoDB, and more.
-- 📫 How to reach me: [Your Email]
 - ⚡ Fun fact: I love solving coding challenges and contributing to the developer community.
 
 ## 🛠️ Skills & Tools
@@ -14,9 +13,6 @@ I'm a passionate MEAN stack developer with experience in building dynamic and re
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Tools:** Git, Docker, Jenkins, VS Code
-
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ## 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/your-profile/)
