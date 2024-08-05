@@ -1,6 +1,7 @@
 # Hi Developers 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/monalisa-mahanta-029971170/)
+
 I'm a passionate MEAN stack developer with experience in building dynamic and responsive web applications. Here’s a bit about me:
 
 - 🌱 I’m currently learning advanced Node.js and Angular.
